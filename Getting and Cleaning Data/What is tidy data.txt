@@ -1,0 +1,1 @@
+each row is an observation, each column is a variable, and the table contains a single observational unit.
